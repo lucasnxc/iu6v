@@ -1,6 +1,5 @@
 
 ### Hi, I'm Lucas 👋
-[![Discord Presence](https://lanyard.cnrad.dev/api/1080910114409697410)]
 <p align="center">
 	<img src="https://lanyard.cnrad.dev/api/1080910114409697410"/>
 </p> 
