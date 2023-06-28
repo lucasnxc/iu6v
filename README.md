@@ -1,10 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=Hi%2C+My+name+is+Lucas)](https://git.io/typing-svg)
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7y&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=FF0000" />
-</div>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0x7y&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
