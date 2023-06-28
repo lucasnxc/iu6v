@@ -1,5 +1,3 @@
-<img width=100% src="https://imgur.com/EOGAoEe"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Lucas%2C+Bem+vindo+(a)!)](https://git.io/typing-svg)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MthAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
