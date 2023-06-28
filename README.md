@@ -34,6 +34,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 <br></div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x7y)](https://github.com/0x7y/github-readme-stats)
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
